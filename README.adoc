@@ -1,0 +1,1 @@
+Reusable Intellij CE configuration files
